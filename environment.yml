@@ -1,0 +1,11 @@
+name: catchments
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pysheds
+  - geopandas
+  - pandas
+  - numpy
+  - spyder
+prefix: /home/dyvasey/miniconda3/envs/catchments
